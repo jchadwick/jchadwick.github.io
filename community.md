@@ -62,7 +62,7 @@ Organizing amazing community speaking events in the central New Jersey area alon
 <hr>
 
 <div class="row">
-<div class="col-md-4"><img src="img/aspinsiders.git"/></div>
+<div class="col-md-4"><img src="img/aspinsiders.gif"/></div>
 <div class="col-md-8">
 <h3>Member of <br> <a href="http://www.aspinsiders.com">ASPInsiders</a></h3>
 </div>
