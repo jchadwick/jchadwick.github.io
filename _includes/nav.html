@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      {% if !page.showTitle %}
+      {% if page.showTitle != false %}
       <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
       {% endif %}
     </div>
