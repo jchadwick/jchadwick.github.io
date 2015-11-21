@@ -4,6 +4,18 @@ title: Community
 subtitle: Where, when, and how I've participated in the developer community
 ---
 
+<style>
+h2 a { color: black }
+h2 a:hover {
+    text-decoration: initial;
+    cursor: default;
+    color: black;
+}
+hr { margin: 2em 0; }
+</style>
+
+<hr>
+
 <div class="row">
 <div class="col-md-4"><img src="img/podcast.png"/></div>
 <div class="col-md-8">
@@ -48,7 +60,6 @@ Organizing amazing community speaking events in the central New Jersey area alon
 </div>
 
 <hr>
-<br>
 
 <h2><a href="#Presentations">Technical Presentations</a></h2>
 
