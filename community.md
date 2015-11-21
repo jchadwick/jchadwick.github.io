@@ -43,7 +43,7 @@ One of several organizers of the first major developer Conference in the Philade
 <div class="row">
 <div class="col-md-4"><img src="img/njdotnet.png"/></div>
 <div class="col-md-8">
-<h3>Leader of <br> the <a href="http://www.njdotnet.org">Central New Jersey .NET User Group</a></h3>
+<h3>Leader of the <br> <a href="http://www.njdotnet.org">Central New Jersey .NET User Group</a></h3>
 </div>
 <div class="col-md-12">
 Organizing amazing community speaking events in the central New Jersey area along with Todd Snyder since 2005.
