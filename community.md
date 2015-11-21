@@ -4,8 +4,13 @@ title: Community
 subtitle: Where, when, and how I've participated in the developer community
 ---
 
-### Host of [The Static Void Podcast](http://www.staticvoidpodcast.com)
-Created The Static Void Podcast in June 2015 to help .NET developers stay up-to-date with relevant emerging technology trends.
+<div class="row">
+<div class="col-md-2"><img src="img/podcast.jpg"/></div>
+<div class="col-md-10">
+<h3>Host of [The Static Void Podcast](http://www.staticvoidpodcast.com)</h3>
+<p>Created The Static Void Podcast in June 2015 to help .NET developers stay up-to-date with relevant emerging technology trends.</p>
+</div>
+</div>
 
 ### Founding member of [TechBASH Developer Conference](http://www.techbash.com)
 One of several organizers of the first major developer Conference in the Philadelphia area.
