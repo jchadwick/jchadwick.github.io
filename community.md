@@ -48,8 +48,9 @@ Organizing amazing community speaking events in the central New Jersey area alon
 </div>
 
 <hr>
+<br>
 
-### Various Technical Presentations
+<h2><a href="#Presentations">Technical Presentations</a></h2>
 
-#### [Introduction to TypeScript](https://www.youtube.com/watch?v=qRD7bkK7m10) (Video)
+### [Introduction to TypeScript](https://www.youtube.com/watch?v=qRD7bkK7m10) (Video)
 Free training video introducing developers to everything they need to know in order to become productive with the TypeScript programming language.
