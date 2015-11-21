@@ -1,5 +1,7 @@
 ---
 layout: page
-title: Professional Career
+title: Career
 subtitle: Places I've worked and titles I've been given
 ---
+
+Coming soon!
