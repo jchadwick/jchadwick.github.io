@@ -28,8 +28,9 @@ avatar: "/img/avatar-icon.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Projects: "about"
-  Contact: "contact"
+  Community: "community"
+  Publications: "publications"
+  Career: "career"
   
 # --- Footer options --- #
 
