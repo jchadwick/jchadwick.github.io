@@ -19,7 +19,7 @@ hr { margin: 2em 0; }
 <div class="row">
 <div class="col-md-4"><img src="img/podcast.png"/></div>
 <div class="col-md-8">
-<h3>Host of <a href="http://www.staticvoidpodcast.com">The Static Void Podcast</a></h3>
+<h3>Host of <br> <a href="http://www.staticvoidpodcast.com">The Static Void Podcast</a></h3>
 </div>
 <div class="col-md-12">
 Created The Static Void Podcast in June 2015 to help .NET developers stay up-to-date with relevant emerging technology trends.
@@ -31,7 +31,7 @@ Created The Static Void Podcast in June 2015 to help .NET developers stay up-to-
 <div class="row">
 <div class="col-md-4"><img src="img/techbash.png"/></div>
 <div class="col-md-8">
-<h3>Founding member of <a href="http://www.techbash.com">TechBASH Developer Conference</a></h3>
+<h3>Founding member of <br> <a href="http://www.techbash.com">TechBASH Developer Conference</a></h3>
 </div>
 <div class="col-md-12">
 One of several organizers of the first major developer Conference in the Philadelphia area.
@@ -43,7 +43,7 @@ One of several organizers of the first major developer Conference in the Philade
 <div class="row">
 <div class="col-md-4"><img src="img/njdotnet.png"/></div>
 <div class="col-md-8">
-<h3>Leader of the <a href="http://www.njdotnet.org">Central New Jersey .NET User Group</a></h3>
+<h3>Leader of <br> the <a href="http://www.njdotnet.org">Central New Jersey .NET User Group</a></h3>
 </div>
 <div class="col-md-12">
 Organizing amazing community speaking events in the central New Jersey area along with Todd Snyder since 2005.
@@ -55,7 +55,7 @@ Organizing amazing community speaking events in the central New Jersey area alon
 <div class="row">
 <div class="col-md-4"><img src="img/phillydotnet.png"/></div>
 <div class="col-md-8">
-<h3>Speaker and Track Lead at <a href="http://www.phillydotnet.org">Philly.NET User Group</a></h3>
+<h3>Speaker and Track Lead at <br> <a href="http://www.phillydotnet.org">Philly.NET User Group</a></h3>
 </div>
 </div>
 
