@@ -5,18 +5,35 @@ subtitle: Where, when, and how I've participated in the developer community
 ---
 
 <div class="row">
-<div class="col-md-2"><img src="img/podcast.jpg"/></div>
-<div class="col-md-10">
-<h3>Host of [The Static Void Podcast](http://www.staticvoidpodcast.com)</h3>
-<p>Created The Static Void Podcast in June 2015 to help .NET developers stay up-to-date with relevant emerging technology trends.</p>
+<div class="col-md-4"><img src="img/podcast.png"/></div>
+<div class="col-md-8">
+<h3>Host of <a href="http://www.staticvoidpodcast.com">The Static Void Podcast</a></h3>
+</div>
+<div class="col-md-12">
+Created The Static Void Podcast in June 2015 to help .NET developers stay up-to-date with relevant emerging technology trends.
 </div>
 </div>
 
-### Founding member of [TechBASH Developer Conference](http://www.techbash.com)
+<div class="row">
+<div class="col-md-4"><img src="img/techbash.png"/></div>
+<div class="col-md-8">
+<h3>Founding member of <a href="http://www.techbash.com">TechBASH Developer Conference</a></h3>
+</div>
+<div class="col-md-12">
 One of several organizers of the first major developer Conference in the Philadelphia area.
+</div>
+</div>
 
-### Leader of the [Central New Jersey .NET Developer Group (NJDOTNET)](http://www.njdotnet.org)
+<div class="row">
+<div class="col-md-4"><img src="img/njdotnet.png"/></div>
+<div class="col-md-8">
+<h3>Leader of the <a href="http://www.njdotnet.org">Central New Jersey .NET Developer Group</a></h3>
+</div>
+<div class="col-md-12">
 Organizing amazing community speaking events in the central New Jersey area along with Todd Snyder since 2005.
+</div>
+</div>
+
 
 ### Various Technical Presentations
 
