@@ -18,7 +18,7 @@ hr { margin: 2em 0; }
 
 <div class="row">
 <div class="col-md-4">
-<img src="img/github-big.png"/>
+<img src="img/github.gif"/>
 </div>
 <div class="col-md-8 text-center">
 <div class="github-card" data-user="jchadwick"></div>
