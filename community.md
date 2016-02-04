@@ -18,9 +18,9 @@ hr { margin: 2em 0; }
 
 <div class="row">
 <div class="col-md-4">
-<img src="img/github.gif"/>
+<img class="pull-right" style="height: 150px" src="img/github.gif"/>
 </div>
-<div class="col-md-8 text-center">
+<div class="col-md-8">
 <div class="github-card" data-user="jchadwick"></div>
 <script src="http://lab.lepture.com/github-cards/widget.js"></script>
 </div>
