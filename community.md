@@ -17,11 +17,10 @@ hr { margin: 2em 0; }
 <hr>
 
 <div class="row">
-<div class="col-md-4"></div>
-<div class="col-md-8">
-<h3><a href="https://github.com/jchadwick">Open Source Contributor</a></h3>
+<div class="col-md-4">
+<img src="img/github-big.png"/>
 </div>
-<div class="col-md-12 text-center">
+<div class="col-md-8 text-center">
 <div class="github-card" data-user="jchadwick"></div>
 <script src="http://lab.lepture.com/github-cards/widget.js"></script>
 </div>
