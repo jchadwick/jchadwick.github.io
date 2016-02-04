@@ -17,6 +17,19 @@ hr { margin: 2em 0; }
 <hr>
 
 <div class="row">
+<div class="col-md-4"></div>
+<div class="col-md-8">
+<h3><a href="https://github.com/jchadwick">Open Source Contributor</a></h3>
+</div>
+<div class="col-md-12">
+<div class="github-card" data-user="jchadwick"></div>
+<script src="http://lab.lepture.com/github-cards/widget.js"></script>
+</div>
+</div>
+
+<hr>
+
+<div class="row">
 <div class="col-md-4"><img src="img/podcast.png"/></div>
 <div class="col-md-8">
 <h3>Host of <br> <a href="http://www.staticvoidpodcast.com">The Static Void Podcast</a></h3>
