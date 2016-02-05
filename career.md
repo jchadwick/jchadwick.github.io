@@ -14,5 +14,5 @@ Sure, I could list out all of my work history here, but why would I do that when
 Or, if you want to see the fancy PDF version of my resume, you can check it out here:  
 [Jess Chadwick's resume (fancy PDF style)](http://1drv.ms/1T1RzkR)
 
-<embed src="http://1drv.ms/1T1RzkR" width="900" height="700" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<embed src="http://1drv.ms/1T1RzkR" width="900" height="700" alt="Jess Chadwick's resume" type="application/pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 
