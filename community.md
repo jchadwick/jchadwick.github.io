@@ -17,13 +17,30 @@ hr { margin: 2em 0; }
 <hr>
 
 <div class="row">
-<div class="col-md-4">
-<img class="pull-right" style="height: 150px" src="img/github.gif"/>
-</div>
+<div class="col-md-4 text-center"><img style="height: 150px" src="img/github.gif" /></div>
 <div class="col-md-8">
-<div class="github-card" data-user="jchadwick"></div>
-<script src="http://lab.lepture.com/github-cards/widget.js"></script>
+<h3>Creator and Contributor of <br> <a href="http://github.com/jchadwick">Open Source Projects</a></h3>
 </div>
+<div class="col-md-12">
+Creator of various open source projects including:
+
+<ul>
+<li><strong><a href="https://github.com/jchadwick/Glimpse.Log4Net">Glimpse log4net plugin</a>:</strong> 
+See log4net log messages in Glimpse
+</li>
+
+<li><strong><a href="https://github.com/jchadwick/RazorClientTemplates">Razor Client Templates</a>:</strong> 
+Use Razor Views as server- and client-side templates
+</li>
+
+<li><strong><a href="https://github.com/jchadwick/developer-achievements">Developer Achievements</a>:</strong> 
+Gamification of good development practices
+</li>
+
+</ul>
+
+</div>
+
 </div>
 
 <hr>
