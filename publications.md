@@ -21,6 +21,8 @@ Shows how to create a dynamic web site that integrates HTML, CSS, and ASP.NET us
 
 ## Books
 
+<a href="https://leanpub.com/essentialtypescript"><img border="0" width="83px" src="https://s3.amazonaws.com/titlepages.leanpub.com/essentialtypescript/hero?1457328763">Essential TypeScript</a> (LeanPub, March 2016)
+
 <a rel="nofollow" href="http://www.amazon.com/gp/product/1449320317/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449320317&linkCode=as2&tag=creativerea0a-20&linkId=OXMSX5467HGFWKJ5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1449320317&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=creativerea0a-20" >Programming ASP.NET MVC 4: Developing Real-World Web Applications with ASP.NET MVC</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=creativerea0a-20&l=as2&o=1&a=1449320317" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
  (O'Reilly, October 2012)
 
