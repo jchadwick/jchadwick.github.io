@@ -7,16 +7,22 @@ subtitle: Stuff that I've authored
 
 ## Online Training 
 
+### _Lynda.com_: [Learn ASP.NET Core MVC](https://www.lynda.com/ASP-NET-tutorials/Learn-ASP-NET-Core-MVC-Basics/512728-2.html)
+This course introduces the basics to get you up and running with ASP.NET Core, and creating your own professional quality applications. He explores setup and installation, working with the ASP.NET Core framework, and the techniques you need to manage data, reuse code, construct web APIs, and secure your new applications. 
+
+### _Lynda.com_: [TypeScript Essential Training](https://www.lynda.com/Typescript-tutorials/TypeScript-Essential-Training/421807-2.html)
+This course teaches you how to leverage the full power of the TypeScript language in your JavaScript applications, starting by revisiting some JavaScript fundamentals. Then the course reviews the data types, classes, generics, modules, and decorators that are unique to TypeScript. In the "Real-World Application Development" chapter, the course demos how to convert an existing JavaScript codebase to take advantage of everything TypeScript has to offer. What's more, the course shows you how to do it all using the environment of your choosing: Windows, Mac, or even Linux.
+
 ### [Introduction to TypeScript](https://www.youtube.com/watch?v=qRD7bkK7m10)  (Free)
 Free training video introducing developers to everything they need to know in order to become productive with the TypeScript programming language.
 
-### [Up and Running with ASP.NET 5](http://www.lynda.com/ASP-NET-tutorials/Up-Running-ASP-NET-5/368051-2.html)
+### _Lynda.com_: [Up and Running with ASP.NET 5](http://www.lynda.com/ASP-NET-tutorials/Up-Running-ASP-NET-5/368051-2.html) (Retired)
 Get up and running with ASP.NET 5, and start creating and deploying your own professional quality web applications.
 
-### [ASP.NET MVC 4 Essential Training](http://www.lynda.com/ASP-NET-tutorials/ASP-NET-MVC-4-Essential-Training/109762-2.html)
+### _Lynda.com_: [ASP.NET MVC 4 Essential Training](http://www.lynda.com/ASP-NET-tutorials/ASP-NET-MVC-4-Essential-Training/109762-2.html)
 Shows how to create a simple web application with professional layouts, web forms, user authentication, and mobile integration with ASP.NET MVC.
 
-### [Up and Running with WebMatrix and ASP.NET](http://www.lynda.com/ASP-NET-tutorials/Up-Running-WebMatrix-ASP-NET/85082-2.html)
+### _Lynda.com_: [Up and Running with WebMatrix and ASP.NET](http://www.lynda.com/ASP-NET-tutorials/Up-Running-WebMatrix-ASP-NET/85082-2.html)
 Shows how to create a dynamic web site that integrates HTML, CSS, and ASP.NET using WebMatrix.
 
 ## Books
