@@ -17,7 +17,7 @@ hr { margin: 2em 0; }
 <hr>
 
 <div class="row">
-<div class="col-md-4 text-center"><img style="height: 150px" src="img/github.gif" /></div>
+<div class="col-md-4 text-center"><img style="height: 150px" src="/img/github.gif" /></div>
 <div class="col-md-8">
 <h3>Creator and Contributor of <br> <a href="http://github.com/jchadwick">Open Source Projects</a></h3>
 </div>
@@ -46,7 +46,7 @@ Gamification of good development practices
 <hr>
 
 <div class="row">
-<div class="col-md-4"><img src="img/podcast.png"/></div>
+<div class="col-md-4"><img src="/img/podcast.png"/></div>
 <div class="col-md-8">
 <h3>Host of <br> <a href="http://www.staticvoidpodcast.com">The Static Void Podcast</a></h3>
 </div>
@@ -58,7 +58,7 @@ Created The Static Void Podcast in June 2015 to help .NET developers stay up-to-
 <hr>
 
 <div class="row">
-<div class="col-md-4"><img src="img/techbash.png"/></div>
+<div class="col-md-4"><img src="/img/techbash.png"/></div>
 <div class="col-md-8">
 <h3>Founding member of <br> <a href="http://www.techbash.com">TechBASH Developer Conference</a></h3>
 </div>
@@ -70,7 +70,7 @@ One of several organizers of the first major developer Conference in the Philade
 <hr>
 
 <div class="row">
-<div class="col-md-4"><img src="img/njdotnet.png"/></div>
+<div class="col-md-4"><img src="/img/njdotnet.png"/></div>
 <div class="col-md-8">
 <h3>Leader of the <br> <a href="http://www.njdotnet.org">Central New Jersey .NET User Group</a></h3>
 </div>
@@ -82,7 +82,7 @@ Organizing amazing community speaking events in the central New Jersey area alon
 <hr>
 
 <div class="row">
-<div class="col-md-4"><img src="img/phillydotnet.png"/></div>
+<div class="col-md-4"><img src="/img/phillydotnet.png"/></div>
 <div class="col-md-8">
 <h3>Speaker and Track Lead at <br> <a href="http://www.phillydotnet.org">Philly.NET User Group</a></h3>
 </div>
@@ -91,7 +91,7 @@ Organizing amazing community speaking events in the central New Jersey area alon
 <hr>
 
 <div class="row">
-<div class="col-md-4"><img src="img/aspinsiders.gif"/></div>
+<div class="col-md-4"><img src="/img/aspinsiders.gif"/></div>
 <div class="col-md-8">
 <h3>Member of <br> <a href="http://www.aspinsiders.com">ASPInsiders</a></h3>
 </div>
