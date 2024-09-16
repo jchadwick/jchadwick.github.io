@@ -8,8 +8,66 @@
     </title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="resume.css" />
+    <script src="./tailwind.js"></script>
+    <style>
+        html,
+        body {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            height: 100%;
+        }
+
+        @media print {
+            section.section h2 {
+                font-weight: 800;
+            }
+        }
+
+        @page {
+            size: A4 portrait;
+        }
+
+        a {
+            color: #2e74b5 !important;
+            text-decoration: underline !important;
+        }
+
+        .technology::after {
+            content: ', ';
+        }
+
+        .technology:last-of-type::after {
+            content: '';
+        }
+
+        section.section h2 {
+            display: block;
+            border-bottom: 2px solid #444;
+            margin-top: 1em;
+            margin-bottom: 5px;
+            padding: 3px;
+            color: #2e74b5;
+            font-weight: bold;
+            font-size: 120%;
+        }
+
+        section.subsection h3 {
+            color: #0a70a0 !important;
+            font-weight: bold;
+        }
+
+        section.subsection h3 {
+            display: block;
+            border-bottom: 1px solid #444;
+            margin-top: 1em;
+            margin-bottom: 5px;
+            padding: 3px;
+            color: blue;
+            font-weight: bold;
+            font-size: 120%;
+        }
+    </style>
 </head>
 
 <body class="bg-slate-200">
