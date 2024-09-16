@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "postinstall": "playwright install --with-deps chromium",
+    "resume:render": "mustache resume/resume.json resume/resume.hbs > resume/resume.html",
+    "resume:watch": "nodemon -e json,hbs -x \"npm run resume:render\""
+  },
+  "devDependencies": {
+    "mustache": "^4.2.0"
+  },
+  "dependencies": {
+    "playwright": "^1.47.1"
+  }
+}

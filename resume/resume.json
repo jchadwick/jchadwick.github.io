@@ -1,0 +1,410 @@
+{
+  "name": "Jess Chadwick",
+  "tagline": "Technologist, Agilist, Leader, and Teacher ",
+  "contact": {
+    "address": "1087 Country Hills Rd, Yardley, PA",
+    "email": "jesschadwick@gmail.com",
+    "phone": "(856) 693-0829",
+    "urls": [
+      {
+        "name": "www.jesschadwick.com",
+        "url": "https://www.jesschadwick.com"
+      },
+      {
+        "name": "github.com/jchadwick",
+        "url": "https://github.com/jchadwick"
+      }
+    ]
+  },
+  "expertise": [
+    { "name": "Enterprise Architecture" },
+    { "name": "Collaborative Development" },
+    { "name": "Technical Evangelism" },
+    { "name": "JavaScript & TypeScript" },
+    { "name": "Angular & React" },
+    { "name": "Web APIs / UI Services / REST" },
+    { "name": "Frameworks and Dev Tooling" },
+    { "name": "Test-Driven Design & Development" },
+    { "name": "Continuous Integration & Deployment" },
+    { "name": "Distributed Source Control" },
+    { "name": ".NET Framework (C#, ASP.NET MVC)" }
+  ],
+  "affiliations": [
+    {
+      "name": "TechBash Developer Conference",
+      "title": "Founder and Board Member (2016-2020)",
+      "url": "https://www.techbash.com",
+      "logo": "https://cdn.techbash.com/general/techbash-websized.png"
+    },
+    {
+      "name": "Lynda.com & LinkedIn Learning video course Author",
+      "logo": "https://humanresources.ku.edu/sites/humanresources/files/images/2022/%5Bin%5DLearning_%20Large%20Logos-Bug-Large-Use_RGB_Blue_128px_Learning_RGB.png"
+    },
+    { "name": "Static Void Podcast Host" },
+    {
+      "name": "Microsoft MVP, ASP.NET (2008-2014, 2017-2021)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Microsoft_MVP_banner.png"
+    },
+    {
+      "name": "ASPInsider",
+      "logo": "https://www.troyhunt.com/content/images/2016/02/26572656image1.png"
+    },
+    { "name": "NJDOTNET User Group Leader" },
+    { "name": "INETA Community Champion" }
+  ],
+  "employment": [
+    {
+      "employer": "Gerson Lehrman Group (GLG)",
+      "title": "Principal Software Engineer",
+      "location": "New York, NY (Remote)",
+      "startDate": "November 2021",
+      "endDate": "Present",
+      "achievements": [
+        "Architected and implemented several new full-stack applications leveraging Node, React, and TypeScript (and react-query with react-hook-forms)",
+        "Refactored existing business logic in frontend applications into APIs - and sometimes micro-applications - to be used by multiple applications, new and old",
+        "Maintained a dozen existing internal applications on the Node stack with JavaScript on the frontend, most with (older) React codebases and a few using AngularJS",
+        "Introduced extensive automated tests to new and existing codebases with a mixture of unit and integration tests, along with some UI automation using Cypress or Storybook",
+        "Converted existing CoffeeScript code to JavaScript and/or TypeScript where appropriate",
+        "Converted existing JavaScript applications (mostly Create React App) to vite",
+        "Introduced the team to TypeScript and became the go-to resident TypeScript \"expert\" for the larger development organization"
+      ],
+      "technologies": [
+        "TypeScript",
+        "React",
+        "Node",
+        "AngularJS",
+        "MSSQL",
+        "react-query",
+        "react-hook-forms",
+        "vite",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "employer": "CentralReach, LLC",
+      "title": "Senior Developer & UI Team Lead/Architect",
+      "location": "Pompano Beach, FL (Remote)",
+      "startDate": "March 2018",
+      "endDate": "November 2021",
+      "achievements": [
+        "Sole Architect and Lead Developer of brand new Single Sign-On (SSO) solution to join all acquired applications under a single platform; system supports over 100k active users with a 25ms avg response time",
+        "Develop new features on a large SPA application using TypeScript, React, MobX",
+        "Convert existing Knockout components to TypeScript, React, MobX",
+        "Create POCs and lead refactoring/cleanup of existing application design and architecture"
+      ],
+      "technologies": [
+        "TypeScript",
+        "React",
+        "MobX",
+        "Knockout",
+        "Webpack",
+        ".NET Core",
+        "OpenID Connect (Identity Framework)",
+        "Terraform",
+        "AWS stack: Lambda, SES, SNS, SQS, SMS, S3, DynamoDB, RDS (MSSQL)"
+      ]
+    },
+    {
+      "employer": "Merrill Lynch / Bank of America",
+      "title": "Director, Sr. Technical Manager",
+      "location": "Pennington, NJ",
+      "startDate": "October 2013",
+      "endDate": "March 2018",
+      "achievements": [
+        "Represented line of business in enterprise work stream to architect a standardized fully-automated SDLC lifecycle (CI/CD)",
+        "Manage 30-person development team (20 off-shore developers) with $3M budget",
+        "Built and managed a 10-person DevOps team to drive successful adoption of said platform of approx. 200 development teams",
+        "Transformed large monolithic legacy Web Forms applications to a modern client-side MVC and UI Services architecture"
+      ],
+      "technologies": [
+        "ASP.NET Web Forms",
+        "ASP.NET MVC",
+        "Angular 1.x/2+",
+        "NPM",
+        "JSPM",
+        "ES6",
+        "TypeScript",
+        "Microsoft Web API",
+        "Team Foundation Server",
+        "Git/BitBucket",
+        "NuGet",
+        "Jenkins",
+        "Artifactory",
+        "Ansible"
+      ]
+    },
+    {
+      "employer": "JK Group",
+      "title": "Lead Technical Architect",
+      "location": "Plainsboro, NJ",
+      "startDate": "July 2013",
+      "endDate": "October 2013",
+      "achievements": [
+        "Lead the rearchitecture of existing legacy charitable donation and volunteer time tracking systems",
+        "Lead a team of remote developers in implementing said systems"
+      ],
+      "technologies": [
+        "ASP.NET MVC",
+        "KnockoutJS",
+        "Service Stack",
+        "NServiceBus",
+        "Team Foundation Server"
+      ]
+    },
+    {
+      "employer": "Teknikos",
+      "title": "Software Development Manager",
+      "location": "King of Prussia, PA",
+      "startDate": "October 2012",
+      "endDate": "June 2013",
+      "achievements": [
+        "Managed all day-to-day software development operations of a boutique software development firm specializing in immersive interactive experiences using devices such as the Kinect, Surface Table, and PixelSense",
+        "Architected real-time interactive experience leveraging touch-screen technology to drive collaboration between geographically-disparate teams"
+      ],
+      "technologies": [
+        "ASP.NET MVC",
+        "SignalR",
+        "KnockoutJS",
+        "BreezeJS",
+        "WPF",
+        "Kinect",
+        "Surface Table",
+        "PixelSense",
+        "Team Foundation Server"
+      ]
+    },
+    {
+      "employer": "Dow Jones",
+      "title": "Sr. Architect and RIA Specialist",
+      "location": "Princeton, NJ",
+      "startDate": "October 2010",
+      "endDate": "September 2012",
+      "achievements": [
+        "Trained existing ASP.NET Web Forms developers on the “new” ASP.NET MVC framework",
+        "Lead Architect and developer on server-side and client-side UI framework based on ASP.NET MVC and client-side MVC",
+        "Introduced NuGet packages to facilitate sharing of code between teams, as well as the build and hosting infrastructure to support it"
+      ],
+      "technologies": [
+        "ASP.NET MVC",
+        "Ninject",
+        "jQuery",
+        "Team Foundation Server",
+        "NuGet"
+      ]
+    },
+    {
+      "employer": "HomeNet Automotive (division of Autotrader.com)",
+      "title": "Sr. Architect and Team Lead",
+      "location": "West Chester, PA",
+      "startDate": "August 2009",
+      "endDate": "September 2010",
+      "achievements": [
+        "Lead Architect on new Autotrader.com backend processing systems",
+        "Lead various 4-8 person development teams in an Agile environment",
+        "Managed automated builds and build infrastructure",
+        "Introduced “Developer Achievements” development metrics gathering system and Xbox Live-like leaderboard to bring gamification to the development process"
+      ],
+      "technologies": [
+        "ASP.NET Web Forms",
+        "ASP.NET MVC",
+        "Ninject",
+        "Linq-To-SQL",
+        "Quartz.NET",
+        "jQuery",
+        "SQL Server",
+        "CruiseControl.NET"
+      ]
+    },
+    {
+      "employer": "Infragistics, Inc.",
+      "title": "Website Team Lead",
+      "location": "Princeton, NJ",
+      "startDate": "April 2006",
+      "endDate": "July 2009",
+      "achievements": [
+        "Managed all production corporate web properties, internal and external (19 in total)",
+        "Introduced automated unit testing and Continuous Integration to existing legacy codebase",
+        "Implemented new eCommerce site built on ASP.NET and Microsoft Commerce Server with integration points via BizTalk.",
+        "Localized entire US English marketing and customer support website to Japanese"
+      ],
+      "technologies": [
+        "ASP.NET",
+        "ASP.NET AJAX",
+        "jQuery",
+        "SQL Server",
+        "WCF",
+        "Silverlight",
+        "Team Foundation Server",
+        "Microsoft Commerce Server",
+        "Ektron CMS",
+        "Community Server",
+        "Enterprise Library",
+        "BizTalk",
+        "Microsoft CRM",
+        "NHibernate"
+      ]
+    },
+    {
+      "employer": "Popular Financial Holdings (Banco Popular)",
+      "title": "Sr. Web Developer",
+      "location": "Princeton, NJ",
+      "startDate": "August 2003",
+      "endDate": "April 2006",
+      "achievements": [
+        "Maintained dynamic rule-based Commission Automation system",
+        "Designed and implemented an intranet Employee Directory replacing Excel spreadsheet",
+        "Documented various IT processes that were formally undocumented and misunderstood"
+      ],
+      "technologies": [
+        "ASP.NET",
+        "AJAX",
+        "Crystal Reports",
+        "Enterprise Library",
+        "BizTalk",
+        "SharePoint",
+        "InfoPath",
+        "SQL Server"
+      ]
+    },
+    {
+      "employer": "onTap4u",
+      "title": "Architect and Lead Developer",
+      "location": "Garden City, NY",
+      "startDate": "September 2002",
+      "endDate": "March 2004",
+      "achievements": [
+        "Designed and brought to market an Internet-enabled electronic beverage dispenser which included various alcoholic restrictions and line level controls and interacts directly with corporate servers, periodically uploading all vital information enabling seamless delivery requests and a low-maintenance end-user appliance"
+      ],
+      "technologies": [
+        "ASP.NET",
+        "ASMX Web Services",
+        "SQL Server",
+        ".NET Compact Framework"
+      ]
+    },
+    {
+      "employer": "Inventa Technologies",
+      "title": "Software Developer",
+      "location": "Moorestown, NJ",
+      "startDate": "September 2000",
+      "endDate": "December 2002",
+      "achievements": [
+        "Updated and maintained proprietary server-monitoring systems and associated administrative GUIs"
+      ],
+      "technologies": [
+        "ColdFusion",
+        "JSP",
+        "Taglibs",
+        "Struts",
+        "BEA Weblogic",
+        "Apache Tomcat",
+        "jBoss",
+        "Apache httpd"
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Introduction to TypeScript",
+      "url": "https://www.youtube.com/watch?v=qRD7bkK7m10",
+      "publisher": "YouTube",
+      "description": "Free training video introducing developers to everything they need to know in order to become productive with the TypeScript programming language."
+    },
+    {
+      "title": "Learning ASP.NET Core Razor Pages",
+      "url": "https://www.lynda.com/Jess-Chadwick/1116263-1.html",
+      "publisher": "LinkedIn Learning"
+    },
+    {
+      "title": "Learning ASP.NET Core MVC",
+      "url": "https://www.lynda.com/ASP-NET-tutorials/Learn-ASP-NET-Core-MVC-Basics/512728-2.html",
+      "publisher": "LinkedIn Learning"
+    },
+    {
+      "title": "TypeScript Essential Training",
+      "url": "https://www.lynda.com/Typescript-tutorials/TypeScript-Essential-Training/421807-2.html",
+      "publisher": "LinkedIn Learning"
+    },
+    {
+      "title": "Up and Running with .NET Core",
+      "url": "http://www.lynda.com/ASP-NET-tutorials/Up-Running-ASP-NET-5/368051-2.html",
+      "publisher": "LinkedIn Learning"
+    },
+    {
+      "title": "ASP.NET MVC 4 Essential Training",
+      "url": "http://www.lynda.com/ASP-NET-tutorials/ASP-NET-MVC-4-Essential-Training/109762-2.html",
+      "publisher": "LinkedIn Learning"
+    },
+    {
+      "title": "Up and Running with WebMatrix and ASP.NET",
+      "url": "http://www.lynda.com/ASP-NET-tutorials/Up-Running-WebMatrix-ASP-NET/85082-2.html",
+      "publisher": "LinkedIn Learning"
+    }
+  ],
+  "books": [
+    {
+      "image": "https://d2sofvawe08yqg.cloudfront.net/essentialtypescript/s_hero2x?1620518133",
+      "title": "Essential TypeScript",
+      "publisher": "LeanPub",
+      "date": "May 2016",
+      "url": "https://leanpub.com/essentialtypescript"
+    },
+    {
+      "image": "./img/book-programming_aspnet_mvc_4.jpg",
+      "title": "Programming ASP.NET MVC 4",
+      "publisher": "O'Reilly",
+      "date": "October 2012",
+      "url": "http://www.amazon.com/gp/product/1449320317/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449320317&linkCode=as2&tag=creativerea0a-20&linkId=OXMSX5467HGFWKJ5"
+    },
+    {
+      "image": "./img/book-programming_razor.jpg",
+      "title": "Programming Razor",
+      "publisher": "O'Reilly",
+      "date": "September 2011",
+      "url": "http://www.amazon.com/gp/product/1449306764/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449306764&linkCode=as2&tag=creativerea0a-20&linkId=I46PWVYF2HLIT6K6"
+    }
+  ],
+  "articles": [
+    {
+      "title": "ASP.NET MVC Model Binding",
+      "details": "MSDN Magazine",
+      "date": "February 2012",
+      "url": "https://msdn.microsoft.com/en-us/magazine/hh781022.aspx"
+    },
+    {
+      "title": "Leveraging Razor Templates Outside of ASP.NET: They're Not Just for HTML Anymore!",
+      "details": "CoDE Magazine",
+      "url": "http://www.codemag.com/Article/1103081"
+    },
+    {
+      "title": "Easy Validation in ASP.NET MVC with the Enterprise Library Validation Application Block",
+      "details": "CoDE Magazine",
+      "url": "http://www.codemag.com/Article/0911101"
+    },
+    {
+      "title": "How to Build Mobile Websites with ASP.NET MVC 2 and Visual Studio 2010",
+      "details": "DevProConnections Magazine",
+      "date": "March 2010",
+      "url": "http://devproconnections.com/aspnet/how-build-mobile-websites-aspnet-mvc-2-and-visual-studio-2010"
+    }
+  ],
+  "open_source": [
+    {
+      "name": "Several contributions to Visual Studio Code",
+      "description": "Contributed ability to use PowerShell as integrated terminal and set of unit tests to increase code coverage",
+      "url": "https://github.com/microsoft/vscode/commits/main/?author=jchadwick"
+    },
+    {
+      "name": "NuGet Reverse Package Search",
+      "category": "Visual Studio Code Extension ",
+      "description": "Adds reverse .NET package lookup support like the \"Add Package\" context menu item in full Visual Studio",
+      "url": "https://marketplace.visualstudio.com/items?itemName=jchadwick.nuget-reverse-package-search"
+    },
+    {
+      "name": "Glimpse.log4net",
+      "category": "log4net extension for Glimpse",
+      "description": "A Glimpse extension that allows users to view log4net log messages in the browser via Glimpse.",
+      "url": "https://github.com/jchadwick/Glimpse.Log4Net"
+    }
+  ]
+}
